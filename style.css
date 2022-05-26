@@ -10,6 +10,16 @@ p1 {
   font-size: large;
 }
 p2 {
-  color: #114385;
+  color: black;
   font-size: large;
+}
+img {
+  border-style: dotted;
+  border-width: 5px;
+  color:red;
+}
+p {
+  border-style: dotted;
+  border-width: 2px;
+  color:black;
 }
